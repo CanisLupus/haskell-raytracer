@@ -5,7 +5,7 @@ haskell-raytracer
 
 A simple graphics ray tracer coded in Haskell and including a not-so-simple scene description file parser. You can use it as a learning tool or as guidance when creating a similar ray tracer :)
 
-The ray tracer is compatible with the online course "CS184.1x Foundations of Computer Graphics" at edX, making use of the scene setup file format used there (file with the all data of the scene to be traced). I completed the course with a C++ ray tracer, but due to respect for the teachers of the course I'll not post that code, as C++ is the "official" course programming language. If you use this repository to help you with that course, DO learn from it and DON'T simply copy work.
+The ray tracer is compatible with the online course "CS184.1x Foundations of Computer Graphics" at edX, making use of the scene setup file format used there (file with all the information for the scene to be traced). I completed the course with a C++ ray tracer, but due to respect for the teachers of the course I'll not post that code, as C++ is the "official" course programming language. If you use this repository to help you with that course, DO learn from it and DON'T simply copy work.
 
 <h4>Features</h4>
 
